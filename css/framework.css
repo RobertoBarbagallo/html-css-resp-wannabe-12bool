@@ -95,7 +95,7 @@
 
 
 /* Media query per devices Extra-Small */
-@media all and (max-width: 767px){
+@media screen and (max-width: 767px){
 
 
     /* Colonne */
@@ -199,7 +199,7 @@
 
 /* Media query per devices Medium */
 
-@media all and (min-width: 768px) and (max-width:991px){
+@media screen and (min-width: 768px) and (max-width:991px){
 
     /* Colonne */
 
@@ -301,7 +301,7 @@
 
 /* Media queries per devices Large */
 
-@media all and (min-width: 992px){
+@media screen and (min-width: 992px){
 
 
     /* Offsets */
